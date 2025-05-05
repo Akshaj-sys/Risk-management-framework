@@ -241,7 +241,7 @@ Training and Awareness
 
 * **Training Goals**:
 
-1.) Enhance employee with understanding of cyberthreats and best practices to prevent it
+1.) Enhance employees with understanding of cyberthreats and best practices to prevent it
 
 2.) Foster a culture of security awareness across all levels of organization
 
